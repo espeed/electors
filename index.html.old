@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>The Electors: Real People. Real Votes. Real Power.</title>
+<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="stylesheet" href="/css/tripoli.simple.css" type="text/css" />
+<link rel="stylesheet" href="/css/styles.css" type="text/css" />
+</head>
+
+<div id="container">
+<div id="container-inner">
+
+<div id="header">
+<div id="header_inner">
+   <div id="logo"></div>
+</div><!-- header_inner -->
+</div><!-- header -->
+
+<div id="heading">
+
+<div id="primary"><h1>Uniting to Form the Most Powerful Political Lobby in History</h1></div>
+
+<div id="subtext">
+(coming soon)
+</div>
+
+</div><!-- heading -->
+
+
+
+
+<div style="padding-top: 50px; padding-bottom: 70px; font-size: 120%; color: #666666; text-align: center;">Real People. Real Votes. Real Power.</div>
+
+<br />
+
+<div id="copyright">
+&copy;2009 The Electors
+</div>
+
+</div><!-- container-inner -->
+</div><!-- container -->
+
+<br />&nbsp;<br />
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-31863-16");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body>
+</html>
